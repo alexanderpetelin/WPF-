@@ -1,0 +1,12 @@
+C:\Резюме\WPFСтилиИШаблоны\WPFСтилиИШаблоны\bin\Debug\WPFСтилиИШаблоны.exe
+C:\Резюме\WPFСтилиИШаблоны\WPFСтилиИШаблоны\bin\Debug\WPFСтилиИШаблоны.pdb
+C:\Резюме\WPFСтилиИШаблоны\WPFСтилиИШаблоны\obj\Debug\WPFСтилиИШаблоны.csprojResolveAssemblyReference.cache
+C:\Резюме\WPFСтилиИШаблоны\WPFСтилиИШаблоны\obj\Debug\MainWindow.baml
+C:\Резюме\WPFСтилиИШаблоны\WPFСтилиИШаблоны\obj\Debug\MainWindow.g.cs
+C:\Резюме\WPFСтилиИШаблоны\WPFСтилиИШаблоны\obj\Debug\App.g.cs
+C:\Резюме\WPFСтилиИШаблоны\WPFСтилиИШаблоны\obj\Debug\WPFСтилиИШаблоны_MarkupCompile.cache
+C:\Резюме\WPFСтилиИШаблоны\WPFСтилиИШаблоны\obj\Debug\WPFСтилиИШаблоны.g.resources
+C:\Резюме\WPFСтилиИШаблоны\WPFСтилиИШаблоны\obj\Debug\WPFСтилиИШаблоны.Properties.Resources.resources
+C:\Резюме\WPFСтилиИШаблоны\WPFСтилиИШаблоны\obj\Debug\WPFСтилиИШаблоны.csproj.GenerateResource.Cache
+C:\Резюме\WPFСтилиИШаблоны\WPFСтилиИШаблоны\obj\Debug\WPFСтилиИШаблоны.exe
+C:\Резюме\WPFСтилиИШаблоны\WPFСтилиИШаблоны\obj\Debug\WPFСтилиИШаблоны.pdb
