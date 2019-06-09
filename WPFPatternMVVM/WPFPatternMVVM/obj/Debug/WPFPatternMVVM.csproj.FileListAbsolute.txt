@@ -1,0 +1,17 @@
+C:\Резюме\WPFPatternMVVM\WPFPatternMVVM\bin\Debug\WPFPatternMVVM.exe.config
+C:\Резюме\WPFPatternMVVM\WPFPatternMVVM\bin\Debug\WPFPatternMVVM.exe
+C:\Резюме\WPFPatternMVVM\WPFPatternMVVM\bin\Debug\WPFPatternMVVM.pdb
+C:\Резюме\WPFPatternMVVM\WPFPatternMVVM\bin\Debug\EntityFramework.dll
+C:\Резюме\WPFPatternMVVM\WPFPatternMVVM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Резюме\WPFPatternMVVM\WPFPatternMVVM\bin\Debug\EntityFramework.xml
+C:\Резюме\WPFPatternMVVM\WPFPatternMVVM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Резюме\WPFPatternMVVM\WPFPatternMVVM\obj\Debug\MainWindow.baml
+C:\Резюме\WPFPatternMVVM\WPFPatternMVVM\obj\Debug\MainWindow.g.cs
+C:\Резюме\WPFPatternMVVM\WPFPatternMVVM\obj\Debug\App.g.cs
+C:\Резюме\WPFPatternMVVM\WPFPatternMVVM\obj\Debug\WPFPatternMVVM_MarkupCompile.cache
+C:\Резюме\WPFPatternMVVM\WPFPatternMVVM\obj\Debug\WPFPatternMVVM.g.resources
+C:\Резюме\WPFPatternMVVM\WPFPatternMVVM\obj\Debug\WPFPatternMVVM.Properties.Resources.resources
+C:\Резюме\WPFPatternMVVM\WPFPatternMVVM\obj\Debug\WPFPatternMVVM.csproj.GenerateResource.Cache
+C:\Резюме\WPFPatternMVVM\WPFPatternMVVM\obj\Debug\WPFPatternMVVM.exe
+C:\Резюме\WPFPatternMVVM\WPFPatternMVVM\obj\Debug\WPFPatternMVVM.pdb
+C:\Резюме\WPFPatternMVVM\WPFPatternMVVM\obj\Debug\WPFPatternMVVM.csprojResolveAssemblyReference.cache
