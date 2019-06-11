@@ -1,0 +1,13 @@
+C:\Резюме\WPFTimCoreyLesson1\UI\bin\Debug\UI.exe.config
+C:\Резюме\WPFTimCoreyLesson1\UI\bin\Debug\UI.exe
+C:\Резюме\WPFTimCoreyLesson1\UI\bin\Debug\UI.pdb
+C:\Резюме\WPFTimCoreyLesson1\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Резюме\WPFTimCoreyLesson1\UI\obj\Debug\MainWindow.baml
+C:\Резюме\WPFTimCoreyLesson1\UI\obj\Debug\MainWindow.g.cs
+C:\Резюме\WPFTimCoreyLesson1\UI\obj\Debug\App.g.cs
+C:\Резюме\WPFTimCoreyLesson1\UI\obj\Debug\UI_MarkupCompile.cache
+C:\Резюме\WPFTimCoreyLesson1\UI\obj\Debug\UI.g.resources
+C:\Резюме\WPFTimCoreyLesson1\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Резюме\WPFTimCoreyLesson1\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Резюме\WPFTimCoreyLesson1\UI\obj\Debug\UI.exe
+C:\Резюме\WPFTimCoreyLesson1\UI\obj\Debug\UI.pdb
